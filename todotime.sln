@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30404.54
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todotime.Common", "todotime.Common\todotime.Common.csproj", "{EB2C643E-DB27-4483-A5D5-1AE558FD9546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todotime.Function", "todotime.Function\todotime.Function.csproj", "{52190856-622B-4894-B4B5-BDA2704EDF3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todotime.Functions", "todotime.Function\todotime.Functions.csproj", "{52190856-622B-4894-B4B5-BDA2704EDF3F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todotime.Tests", "todotime.Tests\todotime.Tests.csproj", "{821C485D-628E-4033-A094-68D7D86E4C5C}"
 EndProject
